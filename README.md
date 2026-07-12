@@ -58,3 +58,6 @@ Durante o desenvolvimento foi simulada uma mudança de escopo com a proposta de 
 
 ## Mudança de Escopo
 Durante o planejamento ágil, foi identificada a necessidade futura de um sistema de autenticação. Essa funcionalidade de Login foi registrada no Kanban como melhoria subsequente.
+
+## Aluno
+- **Matheus Nascimento** - Curso de Análise e Desenvolvimento de Sistemas (UniFECAF)

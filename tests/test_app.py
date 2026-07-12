@@ -1,3 +1,5 @@
+# Sistema de gerenciamento de tarefas desenvolvido para a disciplina de Engenharia de Software
+
 from src.app import criar_tarefa, listar_tarefas, editar_tarefa, excluir_tarefa, tarefas
 
 def setup_function():

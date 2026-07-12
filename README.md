@@ -55,3 +55,6 @@ python -m pytest
 ## Mudança de Escopo
 
 Durante o desenvolvimento foi simulada uma mudança de escopo com a proposta de adicionar autenticação de usuários em uma versão futura do sistema.
+
+## Mudança de Escopo
+Durante o planejamento ágil, foi identificada a necessidade futura de um sistema de autenticação. Essa funcionalidade de Login foi registrada no Kanban como melhoria subsequente.

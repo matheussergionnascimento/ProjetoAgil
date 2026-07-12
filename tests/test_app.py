@@ -1,3 +1,4 @@
+# Testes automatizados para o sistema de gerenciamento de tarefas
 # Sistema de gerenciamento de tarefas desenvolvido para a disciplina de Engenharia de Software
 
 from src.app import criar_tarefa, listar_tarefas, editar_tarefa, excluir_tarefa, tarefas
